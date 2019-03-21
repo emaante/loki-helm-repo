@@ -1,0 +1,21 @@
+apiVersion: v1
+entries:
+  loki:
+  - appVersion: 0.0.1
+    created: 2019-03-21T11:25:46.383105827Z
+    description: 'Loki: like Prometheus, but for logs.'
+    digest: 5082d28ecf812db0a6b7a503e04fee4a737b46172f693ff056f9d7c10b896154
+    engine: gotpl
+    home: https://grafana.com/loki
+    icon: https://github.com/grafana/loki/raw/master/docs/logo.png
+    kubeVersion: ^1.10.0-0
+    maintainers:
+    - email: lokiproject@googlegroups.com
+      name: Loki Maintainers
+    name: loki
+    sources:
+    - https://github.com/grafana/loki
+    urls:
+    - http://emaante.github.io/loki-helm-repo/loki-0.3.0.tgz
+    version: 0.3.0
+generated: 2019-03-21T11:25:46.381286855Z
