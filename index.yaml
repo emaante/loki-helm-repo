@@ -2,7 +2,7 @@ apiVersion: v1
 entries:
   loki:
   - appVersion: 0.0.1
-    created: 2019-05-31T20:04:56.316609739Z
+    created: 2019-05-31T21:18:18.125585127Z
     description: 'Loki: like Prometheus, but for logs.'
     digest: 5082d28ecf812db0a6b7a503e04fee4a737b46172f693ff056f9d7c10b896154
     engine: gotpl
@@ -20,9 +20,9 @@ entries:
     version: 0.3.0
   loki-stack:
   - appVersion: 0.0.1
-    created: 2019-05-31T20:04:56.32916212Z
+    created: 2019-05-31T21:18:18.129507854Z
     description: 'Loki: like Prometheus, but for logs.'
-    digest: 7bb18a3873addeec3f14e14a6b6b5309fd6cc5a6e95060d56af15af6ca8f35a3
+    digest: d5630457f94cd69f34ed5831446aa6ac6ef513444523cfcf64c2a41c47e7caf8
     engine: gotpl
     home: https://grafana.com/loki
     icon: https://github.com/grafana/loki/raw/master/docs/logo.png
@@ -36,4 +36,4 @@ entries:
     urls:
     - http://emaante.github.io/loki-helm-repo/loki-stack-0.10.1.tgz
     version: 0.10.1
-generated: 2019-05-31T20:04:56.302975483Z
+generated: 2019-05-31T21:18:18.124862476Z
