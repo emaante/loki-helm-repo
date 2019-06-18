@@ -2,7 +2,7 @@ apiVersion: v1
 entries:
   loki:
   - appVersion: 0.0.1
-    created: 2019-06-18T20:26:42.962047714Z
+    created: 2019-06-18T20:37:16.463049992Z
     description: 'Loki: like Prometheus, but for logs.'
     digest: 5082d28ecf812db0a6b7a503e04fee4a737b46172f693ff056f9d7c10b896154
     engine: gotpl
@@ -20,7 +20,7 @@ entries:
     version: 0.3.0
   loki-stack:
   - appVersion: 0.0.1
-    created: 2019-06-18T20:26:42.965826885Z
+    created: 2019-06-18T20:37:16.466803673Z
     description: 'Loki: like Prometheus, but for logs.'
     digest: bbdc239a5392af774e8b5437086e0119a77c13daf006a19f2abd7e17671687ac
     engine: gotpl
@@ -39,7 +39,7 @@ entries:
   prometheus-blackbox-exporter:
   - apiVersion: v1
     appVersion: 0.14.0
-    created: 2019-06-18T20:26:42.966367737Z
+    created: 2019-06-18T20:37:16.467192128Z
     description: Prometheus Blackbox Exporter
     digest: 9ddd69856e59e4bb30fa42c4c1f05172c243b564f0e3711eed5f4b1d5648808b
     home: https://github.com/prometheus/blackbox_exporter
@@ -56,4 +56,4 @@ entries:
     urls:
     - https://emaante.github.io/loki-helm-repo/prometheus-blackbox-exporter-0.3.0.tgz
     version: 0.3.0
-generated: 2019-06-18T20:26:42.960944014Z
+generated: 2019-06-18T20:37:16.462388808Z
